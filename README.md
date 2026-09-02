@@ -90,31 +90,7 @@ Helping teams move from manual testing to sustainable, risk-based quality engine
 
 ---
 
-## Responsible AI in QA
-
-I believe AI should accelerate engineering work without compromising security, quality, or accountability.
-
-My preferred approach includes:
-
-- Human approval for all AI-authored code changes.
-- Redaction of secrets and sensitive data.
-- Sandbox-only credentials.
-- Audit logging for prompts and outputs.
-- Clear framework conventions encoded in reusable skills.
-- Automated suggestions supported by traceable evidence.
-
----
-
 ## Let's Connect
-
-I am interested in conversations about:
-
-- AI-enabled quality engineering.
-- Test automation architecture.
-- Playwright and modern web testing.
-- QA leadership and transformation.
-- CI/CD quality strategy.
-- Mentoring and building high-performing QA teams.
 
 📧 **Email:** [shaheryar789@hotmail.com](mailto:shaheryar789@hotmail.com)
 
