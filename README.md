@@ -21,7 +21,7 @@
 
 ## About Me
 - 🧠 **15+ YOE**
-- 👥 Led QA organizations.
+- 👥 Led **QA** organizations.
 - 🤖 Focused on **agentic AI applied to testing** using Claude, Claude Code, Agent Skills, MCP, and Playwright MCP.
 - 🏗️ Architected **Playwright, Cypress, and Selenium** frameworks covering **5,000+ automated test cases**.
 - ⚡ Achieved **~90% reduction in regression cycle time** with **~4x improvement in automation productivity**
