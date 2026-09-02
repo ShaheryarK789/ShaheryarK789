@@ -20,21 +20,19 @@
 ---
 
 ## About Me
-
-I am a Software Quality Engineering leader with more than 15 years of experience designing, implementing, and scaling test automation organizations.
-
-My current focus is **agentic AI applied to software testing**. I build intelligent workflows that use Claude, Claude Code, Agent Skills, Model Context Protocol, and Playwright MCP to:
-
-- Generate review-ready automated tests.
-- Design scalable test automation frameworks.
-- Build AI-augmented and agentic testing workflows.
-- Establish quality strategies and engineering standards.
-- Integrate automated quality gates into CI/CD pipelines.
-
-Throughout my career, I have built automation frameworks using Playwright, Cypress, and Selenium, covering more than **5,000 automated test cases** and reducing regression cycle time by approximately **90% per deployment**.
+- 🧠 **15+ years** in software quality engineering and test automation leadership.
+- 🤖 Focused on **agentic AI applied to testing** using Claude, Claude Code, Agent Skills, MCP, and Playwright MCP.
+- 🏗️ Architected **Playwright, Cypress, and Selenium** frameworks covering **5,000+ automated test cases**.
+- ⚡ Achieved **~90% reduction in regression cycle time** per deployment.
+- 🚀 Built AI-powered workflows that generate tests, triage failures, and suggest fixes with human review.
+- 📈 Delivered **~4x improvement in automation productivity** by combining AI with Copilot and Playwright Codegen.
+- 🛡️ Defined responsible AI practices for QA: sandbox credentials, data redaction, audit logs, and mandatory human approval.
+- 👥 Led QA organizations of **20+ professionals**, owning strategy, CI/CD, hiring, and mentoring.
+- 🎤 Founder of the **School of SQA** community and invited speaker on automation and QA transformation.
 
 I enjoy combining hands-on engineering with QA strategy, CI/CD, mentoring, hiring, and capability building.
 
+🎓 Certifications: ISTQB, Microsoft Certified SQL Querying, Microsoft Certified Database Management
 ---
 
 ## Technology Stack
