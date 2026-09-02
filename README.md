@@ -87,14 +87,6 @@ Helping teams move from manual testing to sustainable, risk-based quality engine
 
 ---
 
-## Let's Connect
-
-📧 **Email:** [shaheryar789@hotmail.com](mailto:shaheryar789@hotmail.com)
-
-💼 **LinkedIn:** [linkedin.com/in/shaheryarqaconsultant](https://www.linkedin.com/in/shaheryarqaconsultant)
-
----
-
 <p align="center">
   <i>Quality is not just a testing phase — it is an engineering mindset.</i>
 </p>
