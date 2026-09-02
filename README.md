@@ -20,15 +20,12 @@
 ---
 
 ## About Me
-- 🧠 **15+ years** in software quality engineering and test automation leadership.
+- 🧠 **15+ YOE**
+- 👥 Led QA organizations.
 - 🤖 Focused on **agentic AI applied to testing** using Claude, Claude Code, Agent Skills, MCP, and Playwright MCP.
 - 🏗️ Architected **Playwright, Cypress, and Selenium** frameworks covering **5,000+ automated test cases**.
-- ⚡ Achieved **~90% reduction in regression cycle time** per deployment.
-- 🚀 Built AI-powered workflows that generate tests, triage failures, and suggest fixes with human review.
-- 📈 Delivered **~4x improvement in automation productivity** by combining AI with Copilot and Playwright Codegen.
-- 🛡️ Defined responsible AI practices for QA: sandbox credentials, data redaction, audit logs, and mandatory human approval.
-- 👥 Led QA organizations of **20+ professionals**, owning strategy, CI/CD, hiring, and mentoring.
-- 🎤 Founder of the **School of SQA** community and invited speaker on automation and QA transformation.
+- ⚡ Achieved **~90% reduction in regression cycle time** with **~4x improvement in automation productivity**
+- 🎤 Founder of the **School of SQA** community on linkedIn and invited speaker on automation and QA transformation.
 
 I enjoy combining hands-on engineering with QA strategy, CI/CD, mentoring, hiring, and capability building.
 
