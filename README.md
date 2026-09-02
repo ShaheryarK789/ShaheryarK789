@@ -32,7 +32,7 @@
 
 I enjoy combining hands-on engineering with QA strategy, CI/CD, mentoring, hiring, and capability building.
 
-🎓 Certifications: ISTQB, Microsoft Certified SQL Querying, Microsoft Certified Database Management
+- 🎓 Certifications: ISTQB, Microsoft Certified SQL Querying, Microsoft Certified Database Management
 ---
 
 ## Technology Stack
