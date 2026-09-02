@@ -74,34 +74,6 @@ I enjoy combining hands-on engineering with QA strategy, CI/CD, mentoring, hirin
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
 
-### Performance & Data
-
-- Apache JMeter
-- SQL Server
-- MongoDB
-- REST and OpenAPI testing
-- Contract testing
-- Service mocking
-- Network interception
-- Accessibility and visual testing
-- ETL and analytics data validation
-
----
-
-## Career Highlights
-
-- Architected Playwright and Cypress frameworks from the ground up.
-- Automated more than 5,000 test cases.
-- Reduced regression cycle time by 90%.
-- Improved test automation productivity by approximately 4x.
-- Reduced test creation time from 45 minutes to less than 10 minutes.
-- Led a QA organization of more than 20 professionals.
-- Embedded quality gates into AWS CI/CD pipelines.
-- Built AI failure-triage workflows using traces, screenshots, DOM data, and logs.
-- Authored reusable Agent Skills using `SKILL.md` definitions.
-- Founded the School of SQA community for QA professionals.
-- Delivered talks on automation strategy, framework design, and QA transformation.
-
 ---
 
 ## Featured Areas
