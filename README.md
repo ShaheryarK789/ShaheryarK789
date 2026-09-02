@@ -26,27 +26,14 @@ I am a Software Quality Engineering leader with more than 15 years of experience
 My current focus is **agentic AI applied to software testing**. I build intelligent workflows that use Claude, Claude Code, Agent Skills, Model Context Protocol, and Playwright MCP to:
 
 - Generate review-ready automated tests.
-- Analyze traces, screenshots, DOM snapshots, and console logs.
-- Triage test failures and identify likely root causes.
-- Suggest locator and test improvements.
-- Keep humans in control of AI-generated changes.
-
-Throughout my career, I have built automation frameworks using Playwright, Cypress, and Selenium, covering more than **5,000 automated test cases** and reducing regression cycle time by approximately **90% per deployment**.
-
-I enjoy combining hands-on engineering with QA strategy, CI/CD, mentoring, hiring, and capability building.
-
----
-
-## What I Do
-
 - Design scalable test automation frameworks.
 - Build AI-augmented and agentic testing workflows.
 - Establish quality strategies and engineering standards.
 - Integrate automated quality gates into CI/CD pipelines.
-- Improve test reliability and reduce flaky tests.
-- Lead QA teams and mentor software engineers.
-- Translate product requirements into risk-based test plans.
-- Promote responsible AI usage with human review and data protection.
+
+Throughout my career, I have built automation frameworks using Playwright, Cypress, and Selenium, covering more than **5,000 automated test cases** and reducing regression cycle time by approximately **90% per deployment**.
+
+I enjoy combining hands-on engineering with QA strategy, CI/CD, mentoring, hiring, and capability building.
 
 ---
 
