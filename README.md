@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/shaheryarqaconsultant">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:khawarshaheryar@gmail.com">
+  <a href="mailto:shaheryar789@hotmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
@@ -118,7 +118,7 @@ I am interested in conversations about:
 - CI/CD quality strategy.
 - Mentoring and building high-performing QA teams.
 
-📧 **Email:** [khawarshaheryar@gmail.com](mailto:khawarshaheryar@gmail.com)
+📧 **Email:** [shaheryar789@hotmail.com](mailto:shaheryar789@hotmail.com)
 
 💼 **LinkedIn:** [linkedin.com/in/shaheryarqaconsultant](https://www.linkedin.com/in/shaheryarqaconsultant)
 
